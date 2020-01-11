@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<h3 align="center">Koders</h3>
-
 <p align="center">
   Sleek, intuitive, and powerful company for faster and easier software development.
   <br>
