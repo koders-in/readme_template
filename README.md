@@ -3,22 +3,23 @@
     <img src="logo.png" alt="Logo" width="200" height="200">
   </a>
 </p>
-
 <p align="center">
-  Sleek, intuitive, and powerful company for faster and easier software development.
+  <i> "Your vision, Our Kreation" </i>
+  <br> 
+  <br> 
+  An institution that caters to all your software needs with their touch of Koding.
   <br>
-  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore More»</strong></a>
+  <a href="https://www.koders.in"><strong>Explore More»</strong></a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Github</a>
+  <a href="https://www.github.com/koders-in">Github</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/54359381/">LinkedIn</a>
   ·
-  <a href="https://themes.getbootstrap.com/">Youtube</a>
+  <a href="https://www.youtube.com/channel/UCZ5abFiwqKyJLIQ1Jqb6bNg">Youtube</a>
   ·
-  <a href="https://blog.getbootstrap.com/">Instagram</a>
+  <a href="https://www.instagram.com/koders_in/">Instagram</a>
 </p>
-
 
 ## Table of content
 
